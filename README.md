@@ -19,7 +19,8 @@ The following Python modules are used in the script:
 - random, time, datetime: For various time-related functionalities.
 
 ## Usage
-![Sample Image](./Screenshot from 2024-01-06 18-42-28.png)
+![Sample Image](./one.png)
+
 
 
 1. **Run the Script:**
