@@ -19,13 +19,18 @@ The following Python modules are used in the script:
 - random, time, datetime: For various time-related functionalities.
 
 ## Usage
+![Sample Image](./Screenshot from 2024-01-06 18-42-28.png)
+
 
 1. **Run the Script:**
    Execute the script using the following command:
    ```bash
-   python one.py or pyton3 one.py
+   python one.py 
    ```
-
+or
+   ```bash
+      python3 one.py 
+   ```
 2. **Enter Information:**
    - Provide a name in the "Name" field.
    - Enter the message in the "Message" field.
